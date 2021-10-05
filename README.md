@@ -31,7 +31,7 @@ Optimistic approach towards problems
 -- Save water 💧Plant Trees 🌲 Say no to plastics 🚫
 </h4>
 
-<div style="width:800px; margin:0 auto;">
+<div style="margin:0 auto;">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=ajitvishwakarma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
