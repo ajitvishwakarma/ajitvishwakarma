@@ -28,15 +28,8 @@ Optimistic approach towards problems
 
 "Code with Your Brain, Debug with Your Heart ✌🏼"
 
--- Save water 💧Plant Trees 🌲 Say no to plastics 🚫
+--- Save water 💧Plant Trees 🌲 Say no to plastics 🚫 ---
 </h4>
-
-<div style="margin:0 auto;">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ajitvishwakarma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-  
 <!--
 **ajitvishwakarma/ajitvishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
