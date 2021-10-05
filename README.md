@@ -6,20 +6,20 @@
 <h4 align="center">
 Email Id: v.ajit2542@gmail.com
 
-== Core Competencies ==
+Core Competencies ==>
 Java, Kotlin, Spring, Spring Boot, Android(Java & Kotlin), Ethereum Blockchain
 
-== Hands On ==
+Hands On ==>
 I have worked upon Java(Spring, Spring Boot) , Android(Java+Kotlin), Blockchain, Python, JavaScript, Php, StencilJs projects so far involving platforms like Apache Kafka, Docker, Vault etc.
 
-== Skills ==
+Skills ==>
 Languages: Java, Kotlin, Javascript, Python, Php, Solidity(Blockchain), Typescript
 Frameworks/Lib Hands-on: Spring, Hibernate, Django, CodeIgniter, Truffle Framework, React.js, StencilJs, Apache Kafka
 Cloud: AWS
 Databases: Oracle, MySQL, PostgreSQL, MongoDB
 Tools: Jira, Git, Slack
 
-== Strengths ==
+Strengths ==>
 Flexibility,
 Speed,
 Passionate,
@@ -31,9 +31,10 @@ Optimistic approach towards problems
 -- Save water 💧Plant Trees 🌲 Say no to plastics 🚫
 </h4>
 
-
+<center>
 [![trophy](https://github-profile-trophy.vercel.app/?username=ajitvishwakarma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+</center>
+  
 <!--
 **ajitvishwakarma/ajitvishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
