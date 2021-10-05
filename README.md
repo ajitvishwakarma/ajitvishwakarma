@@ -5,6 +5,9 @@
 
 <h4 align="center">
 Email Id: v.ajit2542@gmail.com
+</h4>
+
+<h4 align="center">
 
 Core Competencies ==>
 Java, Kotlin, Spring, Spring Boot, Android(Java & Kotlin), Ethereum Blockchain
