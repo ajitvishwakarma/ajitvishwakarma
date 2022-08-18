@@ -17,8 +17,8 @@ I have worked upon Java(Spring, Spring Boot) , Android(Java+Kotlin), Blockchain,
 
 Skills ==>
 Languages: Java, Kotlin, Javascript, Python, Php, Solidity(Blockchain), Typescript
-Frameworks/Lib Hands-on: Spring, Hibernate, Django, CodeIgniter, Truffle Framework, React.js, StencilJs, Apache Kafka
-Cloud: AWS
+Frameworks/Lib Hands-on: Spring, Hibernate, Django, CodeIgniter, Truffle Framework, React.js, StencilJs, Apache Kafka, Apigee
+Cloud: AWS, Azure
 Databases: Oracle, MySQL, PostgreSQL, MongoDB
 Tools: Jira, Git, Slack
 
