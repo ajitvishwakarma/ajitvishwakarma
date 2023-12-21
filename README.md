@@ -9,29 +9,18 @@ Email Id: v.ajit2542@gmail.com
 
 <h4 align="center">
 
-Core Competencies ==>
-Java, Kotlin, Spring, Spring Boot, Android(Java & Kotlin), Ethereum Blockchain
+Experienced and versatile software engineer with a robust skill set encompassing Java, Kotlin, Spring Boot, Microservices, and Android development (Java & Kotlin).
+I bring a wealth of expertise gained from successfully delivering projects in diverse technologies, including Blockchain, Python, JavaScript, Php, and StencilJs.
+Proficient in leveraging AWS, Apache Kafka, Docker, and Vault for seamless integration.
 
-Hands On ==>
-I have worked upon Java(Spring, Spring Boot) , Android(Java+Kotlin), Blockchain, Python, JavaScript, Php, StencilJs projects so far involving platforms like Apache Kafka, Docker, Vault etc.
+My strength lies in adaptability, speed, passion, and optimism, allowing me to approach challenges with a multifaceted perspective and deliver optimized solutions.
 
-Skills ==>
-Languages: Java, Kotlin, Javascript, Python, Php, Solidity(Blockchain), Typescript
-Frameworks/Lib Hands-on: Spring, Hibernate, Django, CodeIgniter, Truffle Framework, React.js, StencilJs, Apache Kafka, Apigee
-Cloud: AWS, Azure
-Databases: Oracle, MySQL, PostgreSQL, MongoDB
-Tools: Jira, Git, Slack
+As a firm believer in the power of thoughtful coding, I embrace the mantra,
+"Code with Your Brain 🧠, Debug with Your Heart ❤️."
+Committed to sustainability, I advocate for environmental responsibility with a call to action:
+ "Save Water 🚿, Plant Trees 🌲, Go Green 💚."
 
-Strengths ==>
-Flexibility,
-Speed,
-Passionate,
-Optimistic approach towards problems
-
-
-"Code with Your Brain, Debug with Your Heart ✌🏼"
-
---- Save water 💧Plant Trees 🌲 Say no to plastics 🚫 ---
+Let's build a tech future that not only excels in innovation but also fosters a greener, more sustainable world.
 </h4>
 <!--
 **ajitvishwakarma/ajitvishwakarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
