@@ -12,7 +12,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           # You'll need to create a Personal Access Token (classic) with `repo` and `read:user`
           # and save it in Repository Secrets as METRICS_TOKEN
@@ -31,12 +31,14 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Coding Habits (Highlights coding patterns & productivity)
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          # Coding Habits plugin disabled - known bug in lowlighter/metrics v3.34
+          # (TypeError: Cannot destructure property 'author' of 'undefined')
+          # Re-enable when a new release fixes the habits plugin
+          # plugin_habits: yes
+          # plugin_habits_from: 200
+          # plugin_habits_days: 14
+          # plugin_habits_facts: yes
+          # plugin_habits_charts: yes
           
           # Enable lines of code tracking
           plugin_lines: yes
