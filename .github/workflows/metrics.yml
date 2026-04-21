@@ -31,13 +31,8 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Coding Habits - skipping profile repo (force-push events cause null author)
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_skipped: ajitvishwakarma/ajitvishwakarma
+          # Coding Habits plugin - disabled due to bug in lowlighter/metrics v3.34 Docker image
+          # Re-enable once v3.35+ is released: plugin_habits: yes
           
           # Enable lines of code tracking
           plugin_lines: yes
