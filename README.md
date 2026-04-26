@@ -22,11 +22,11 @@ I'm a **Senior Platform & Java Engineer** with 8+ years of experience building a
 
 My most recent work at **Publicis Sapient** sits squarely in the Platform Engineering space  -  I focus on building the *factory*, not just the product:
 
-- 🏗️ **Platform Modernization at Scale:** Successfully modernized and deployed 13 services to production, applying techniques like JDK 21 JPMS tuning, Tomcat 11 migrations, and dynamic CloudFormation generation. Reduced migration effort from ~15 days to 3-4 days per service.
-- ☁️ **Infrastructure & CI/CD:** Led the Amazon Linux 2023 infrastructure migration across 14 production instances, resolving 58 root causes. Refactored Jenkins pipelines to implement cross-agent data bridges (`stash/unstash`) and Wiz security scans.
-- 🛡️ **DevSecOps & Reliability:** Established a 4-gate deployment checklist preventing configuration drifts, and neutralized complex Wiz-flagged vulnerabilities, including a critical transitive CVE hidden within an automation "fat jar".
-- 🤖 **AI-Augmented Engineering:** Developed RAG-style AI automation tools for Dev On-Call (DOC) duties, parsing 500+ weekend alerts down to 20 actionable items via LLM context windows pre-loaded with Wiki SOPs.
-- 📡 **Event-Driven Architectures:** Built real-time healthcare data pipelines using Kafka Streams, CDC (Qlik Replicate), and MongoDB aggregation pipelines to join disparate payloads into unified event models.
+- 🏗️ **Platform Modernization at Scale:** Successfully modernized and deployed 13 services to production, applying techniques like JDK 21 JPMS tuning, Tomcat 11 migrations, and dynamic CloudFormation generation. Reduced migration effort from ~15 days to 3–4 days per service.
+- ☁️ **Infrastructure & CI/CD:** Led the Amazon Linux 2023 infrastructure migration across 14 production instances, producing 58 verified findings across 27 revision cycles — including replacing a 20-year-old SSH library incompatible with AL2023's strict crypto policy. Refactored Jenkins pipelines with cross-agent data bridges (`stash/unstash`) and migrated security scanning from JFrog X-Ray to Wiz CNAPP.
+- 🛡️ **DevSecOps & Reliability:** Established a 4-gate dev-done validation checklist preventing 5 configuration drift incidents, and eliminated a critical Log4Shell CVE (CVSS 10.0) hidden within a shaded third-party JAR by cloning, rebuilding, and deploying a custom fork.
+- 🤖 **AI-Augmented Engineering:** Served as Dev On-Call (DOC) and Non-Dev On-Call (NDOC) across rotations. Developed RAG-style AI automation tools parsing 500+ weekend alerts down to 20–50 actionable items via LLM context windows pre-loaded with Wiki SOPs.
+- 📡 **Event-Driven Architectures:** Built real-time healthcare data pipelines using Kafka Streams, CDC (Qlik Replicate), and MongoDB aggregation pipelines to join 5 disparate payload types into unified compliance events.
 
 > *"I build the paved road so product teams can ship with velocity, safety, and consistency."*
 
@@ -102,8 +102,8 @@ My most recent work at **Publicis Sapient** sits squarely in the Platform Engine
 
 | Domain | What I Built |
 |---|---|
-| **Platform Modernization** | Modernizing a **$1T+ AUM** financial platform (28+ services scope). Deployed 13 services to production applying 13 techniques (**JDK 21, AL2023, Tomcat 11, Oracle JDBC, Graviton ARM64, ACM SSL, HashiCorp Vault**). Engineered a 4-gate deployment checklist, resolved complex Wiz-flagged "fat jar" CVEs, and built AI-assisted on-call alert parsers. |
-| **Healthcare Data Platform** | High-throughput Kotlin/Kafka Streams architecture for real-time drug restriction processing. Built a multi-stage pipeline using CDC (Qlik Replicate) and MongoDB Aggregations to join multiple distributed data sources into a unified clinical model. |
+| **Platform Modernization** | Modernizing a **$1T+ AUM** financial platform (28+ services scope). Deployed 13 services to production applying 13 techniques (**JDK 21, AL2023, Tomcat 11, Oracle JDBC, Graviton ARM64, ACM SSL, HashiCorp Vault**). Engineered a 4-gate dev-done validation checklist, eliminated a critical Log4Shell CVE in a shaded JAR, replaced a 20-year-old SSH library during AL2023 migration, and built AI-assisted on-call alert parsers for DOC/NDOC rotations. |
+| **Healthcare Data Platform** | High-throughput Kotlin/Kafka Streams architecture for real-time drug restriction processing. Built a multi-stage pipeline using CDC (Qlik Replicate) and MongoDB Aggregations to join 5 disparate payload types into a unified clinical compliance model. |
 | **Fintech  -  Limit Management** | Dynamic risk-based limit assignment & enforcement framework for a top US bank across payment products (Spring Boot · GraphQL · Cassandra). |
 | **Payment Gateway SDK** | Server-driven UI SDK for Android / Web / iOS using dynamic JSON rendering, StencilJS, React/Redux, and XML/XSD validation. |
 | **Insurance Aggregator** | Multi-insurer quote & comparison platform (15+ providers) with GraphQL/REST integrations, SOAP bridge, and Play Framework backend. |
