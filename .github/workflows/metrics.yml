@@ -1,0 +1,47 @@
+name: Metrics
+on:
+  # Schedule daily updates Let's run at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # Allow manual trigger
+  workflow_dispatch:
+  # Run on pushes to main branch
+  push:
+    branches: ["main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to create a Personal Access Token (classic) with `repo` and `read:user`
+          # and save it in Repository Secrets as METRICS_TOKEN
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Layout & Display Configuration (Professional Setup)
+          user: ajitvishwakarma
+          template: classic
+          base: activity, repositories, metadata
+          base_indepth: yes
+          config_timezone: Asia/Kolkata
+          config_display: large
+          config_padding: 0, 10%
+          
+          # Isometric Commit Calendar (Catchy 3D view, half-year keeps it compact)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Coding Habits plugin - disabled due to bug in lowlighter/metrics v3.34 Docker image
+          # Re-enable once v3.35+ is released: plugin_habits: yes
+          
+          # Enable lines of code tracking
+          plugin_lines: yes
+          plugin_lines_sections: base
+
+          # Enable languages breakdown
+          plugin_languages: yes
+          # Ignore languages that dilute your Backend/Java branding
+          plugin_languages_ignored: html, css, json, javascript, tex, jupyter notebook, php, c++, c, c#
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_colors: github
