@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://bramhify.com" target="_blank"><img src="https://img.shields.io/badge/Bramhify-bramhify.com-0EA5E9?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Bramhify"/></a>
   <a href="mailto:v.ajit2542@gmail.com"><img src="https://img.shields.io/badge/Email-v.ajit2542%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/i-ajitvishwakarma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-i--ajitvishwakarma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=ajitvishwakarma&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Ajit Vishwakarma Profile Views Counter"/>
@@ -23,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Senior Platform & Java Engineer** with 8+ years of experience building and modernising enterprise-grade distributed systems across **finance, healthcare, payments, and blockchain** domains. Currently modernizing a **$1T+ AUM** investment management platform.
+I'm a **Senior Platform & Java Engineer** with 8+ years of experience building and modernizing enterprise-grade distributed systems across **finance, healthcare, payments, and blockchain** domains. Currently modernizing a **$1T+ AUM** investment management platform.
 
 My most recent work at **Publicis Sapient** sits squarely in the Platform Engineering space. I focus on building the *factory*, not just the product:
 
@@ -82,14 +83,10 @@ My most recent work at **Publicis Sapient** sits squarely in the Platform Engine
 **AI & Developer Tooling**
 
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Vault](https://img.shields.io/badge/HashiCorp%20Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
-
-
-
 
 
 
@@ -99,6 +96,7 @@ My most recent work at **Publicis Sapient** sits squarely in the Platform Engine
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
 | **Platform Modernization**<br/>*(Financial Services)* | Modernizing a **$1T+ AUM** platform (28+ services). Migrated 13 services to **JDK 21, AL2023, Tomcat 11**, and **Graviton ARM64**. Built a 4-gate dev-done checklist, patched a critical Log4Shell CVE in an unmaintained shaded JAR, and deployed an AI-assisted RAG ops agent for DOC triage. | `Java 21` `Spring Boot 3` `AWS` `Vault`   |
 | **Healthcare Data Platform**<br/>*(Real-Time CDC)*    | High-throughput Kafka Streams architecture for drug restrictions. Built a multi-stage CDC pipeline using **Scatter-Gather** and sequential application-side joins to assemble out-of-order regulatory streams. Implemented **CQRS APIs** protected by **Resilience4j** circuit breakers.            | `Kotlin` `Kafka Streams` `MongoDB` `Qlik` |
+| [**Bramhify**](https://bramhify.com)<br/>*(Founder · Privacy-First Web Suite)* | Built a static, zero-upload suite of **64 offline browser utilities** (100KB PDF compression, local WASM AI background removal, image-to-SVG, RFC 9901 SD-JWT & PKCS#8 Web Crypto tools) running 100% client-side with zero server uploads. | `WebAssembly` `Web Crypto` `Cloudflare Pages` `PWA` |
 | **Fintech: Limit Management**<br/>*(Top US Bank)*     | Dynamic risk-based limit assignment and enforcement framework across multi-channel payment products.                                                                                                                                                                                            | `Spring Boot` `GraphQL` `Cassandra`       |
 | **Payment Gateway SDK**<br/>*(Server-Driven UI)*      | Cross-platform SDK for Android/Web/iOS using dynamic JSON rendering and XML/XSD schema validation to completely decouple UI flow from client releases.                                                                                                                                          | `StencilJS` `React` `Android`             |
 | **Insurance Aggregator**<br/>*(Multi-Tenant API)*     | Multi-insurer quote & comparison platform normalizing 15+ heterogeneous provider APIs (REST/SOAP) into a single generic internal contract.                                                                                                                                                      | `Play Framework` `REST/SOAP` `MongoDB`    |
@@ -129,9 +127,9 @@ My most recent work at **Publicis Sapient** sits squarely in the Platform Engine
 
 ### 💬 Let's Connect
 
-I'm open to **Senior Platform Engineer**, or **Senior Java Developer** roles  -  especially those involving distributed systems, cloud-native modernization, and developer experience improvements.
+I'm open to **Senior Platform Engineer** or **Senior Java Developer** roles — especially those involving distributed systems, cloud-native modernization, and developer experience improvements.
 
-📧 v.ajit2542@gmail.com · 🔗 [linkedin.com/in/i-ajitvishwakarma](https://www.linkedin.com/in/i-ajitvishwakarma)
+🌐 [bramhify.com](https://bramhify.com) · 📧 v.ajit2542@gmail.com · 🔗 [linkedin.com/in/i-ajitvishwakarma](https://www.linkedin.com/in/i-ajitvishwakarma)
 
 
 
